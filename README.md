@@ -89,9 +89,9 @@ but also gives you various benefits which can improve the quality of your life. 
 ## Quick Overview 📝
     
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pritee55&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pritee55&theme=maroongoldt&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pritee55&theme=highcontrast)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pritee55&theme=algolia)
 
 
 <br/>
