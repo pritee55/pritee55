@@ -1,4 +1,4 @@
-### Hi 👋 , I am Pritee..👨‍🎓
+### Hi 👋 , I am Pritee..
 
 <!--Header-->
   <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
@@ -30,7 +30,7 @@
 
 ## About Me ✍
  
- I m <b> Pritee Dharme </b>, a pursuing <b>Computer Science Engineer </b>. The Group researches at Security Solution. Now I am learning new technologies under the guidence of the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Pritee Dharme </b>, a pursuing <b>Computer Science Engineer </b>. Now I am learning new technologies under the guidence of the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
@@ -95,9 +95,11 @@ but also gives you various benefits which can improve the quality of your life. 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pritee55&repo=Haproxy_ansible&show_owner=true)](https://github.com/pritee55/Haproxy_Ansible)
 
 
+<br/>
+
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+  <img src="https://profile-counter.glitch.me/pritee55/count.svg" />
 </p>
 
    
@@ -105,4 +107,4 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/pritee55/pritee55"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
