@@ -1,7 +1,10 @@
 ### Hi 👋 , I am Pritee..
 
 <!--Header-->
+<div align="center">
   <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
+  
+</div>
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -91,8 +94,6 @@ but also gives you various benefits which can improve the quality of your life. 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pritee55)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pritee55&layout=compact)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pritee55&repo=Haproxy_ansible&show_owner=true)](https://github.com/pritee55/Haproxy_Ansible)
 
 
 <br/>
